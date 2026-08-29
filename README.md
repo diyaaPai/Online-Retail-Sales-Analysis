@@ -43,7 +43,13 @@ The Power BI dashboard file is available in this repository:
 
 ## Dashboard Preview
 
-Screenshots of the dashboard will be added here.
+### Main Dashboard
+
+![Main Dashboard](dashboard_overview.png)
+
+### Country Sales Details
+
+![Country Sales Details](country_sales_details.png)
 
 ## Project Objective
 
