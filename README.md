@@ -54,3 +54,11 @@ The Power BI dashboard file is available in this repository:
 ## Project Objective
 
 The objective of this project is to demonstrate the use of Power BI for transforming retail data into an interactive dashboard and deriving useful insights from sales, customer, product, quantity, and country-level information.
+
+## Key Insights
+
+- The dashboard records total sales of 17.74M across approximately 6K customers.
+- A total of 11M units were sold, with an average order value of 479.88.
+- Sales performance varies over time, with noticeable peaks and declines across the analyzed period.
+- The United Kingdom has the highest customer count among the countries shown in the Top 10 customer analysis.
+- Country-level analysis helps identify differences in sales and customer activity across markets.
